@@ -1,5 +1,14 @@
 <body>
 <style>
+body {
+  background-color: white;
+}
+h1 {
+  color: navy;
+  margin-left: 30px;
+}
+
+
 body {margin:0;}
 
 ul {
