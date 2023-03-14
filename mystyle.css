@@ -1,3 +1,4 @@
+<style>
 body {
   background-color: #111;
 }
@@ -6,7 +7,7 @@ h1 {
   color: pink;
   margin-left: 20px;
 }
-  <ulbody {margin:0;}
+  body {margin:0;}
 
 ul {
   list-style-type: none;
@@ -43,3 +44,4 @@ li a:hover:not(.active) {
   <li><a href="#contact">Contact</a></li>
   <li><a href="https://tjjcksn3.github.io/aboutme.html">About</a></li>
 </ul>
+</style>
