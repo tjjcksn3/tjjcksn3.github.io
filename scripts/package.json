@@ -1,7 +1,8 @@
 stackblitz.com/fork/github/tjjcksn3/tjjcksn3.github.io?startScript=npm run dev
 
+cd /path/to/package
 > npm init --yes
-Wrote to /home/monatheoctocat/my_package/package.json:
+Wrote to /home/tjjcksn3/scripts/package.json:
 
 {
   "name": "package.json",
