@@ -4,7 +4,7 @@ stackblitz.com/fork/github/tjjcksn3/tjjcksn3.github.io?startScript=npm run dev
 Wrote to /home/monatheoctocat/my_package/package.json:
 
 {
-  "name": "my_package",
+  "name": "package.json",
   "description": "",
   "version": "1.0.0",
   "scripts": {
@@ -18,7 +18,7 @@ Wrote to /home/monatheoctocat/my_package/package.json:
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://tjjcksn3.github.io/issues"
+    "url": "!#"
   },
-  "homepage": "https://tjjcksn3.github.io/"
+  "homepage": "!#"
 }
