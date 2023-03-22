@@ -1,7 +1,24 @@
 stackblitz.com/fork/github/tjjcksn3/tjjcksn3.github.io?startScript=npm run dev
 
+> npm init --yes
+Wrote to /home/monatheoctocat/my_package/package.json:
+
 {
-  "name": "my-awesome-package",
+  "name": "my_package",
+  "description": "",
   "version": "1.0.0",
-  "author": "Tiereney <tiereneyj@example.com>"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://tjjcksn3.github.io/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://tjjcksn3.github.io/issues"
+  },
+  "homepage": "https://tjjcksn3.github.io/"
 }
