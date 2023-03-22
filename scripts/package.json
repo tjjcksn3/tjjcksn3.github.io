@@ -1,1 +1,7 @@
 stackblitz.com/fork/github/tjjcksn3/tjjcksn3.github.io?startScript=npm run dev
+
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "author": "Tiereney <tiereneyj@example.com>"
+}
