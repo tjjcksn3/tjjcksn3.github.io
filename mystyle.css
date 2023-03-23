@@ -7,6 +7,11 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: E68BBE;
+  text-align: center;
+}
+
 footer {
     position: fixed;
     left: 0;
@@ -16,5 +21,3 @@ footer {
     color: white;
     text-align: center;
 }
-
-.navbar { }
