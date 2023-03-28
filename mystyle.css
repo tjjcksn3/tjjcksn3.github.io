@@ -23,20 +23,28 @@ footer {
 }
 
 
-.button
-{ background-color: #FF9A9A;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer; }
+.btn {
+  padding: 14px 24px;
+  border: 0 none;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
 
-  .button1:hover {
-    background-color: #FF9A9A;
-    color: white;
-  }
+.btn:focus, .btn:active:focus, .btn.active:focus {
+  outline: 0 none;
+}
+
+.btn-primary {
+  background: #0099cc;
+  color: #ffffff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+  background: #33a6cc;
+}
+
+.btn-primary:active, .btn-primary.active {
+  background: #007299;
+  box-shadow: none;
+}
