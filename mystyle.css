@@ -17,10 +17,20 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #EEA1CD;;
+    background-color: #EEA1CD;
     color: white;
     text-align: center;
 }
 
-btn-outline-secondary
-{ }
+btn
+{ background-color: #FF9A9A;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer; }
