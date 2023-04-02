@@ -20,9 +20,12 @@ h3 {
 
 footer {
     position: absolute;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
     left: 0;
     bottom: 0;
-    width: ;
+    width: 100%;
     background-color: #EEA1CD;
     color: white;
     text-align: center;
