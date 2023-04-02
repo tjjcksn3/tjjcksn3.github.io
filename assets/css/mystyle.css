@@ -50,3 +50,9 @@ p {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+
+#pagetop
+{
+  font-family: 'Montserrat', sans-serif;
+  font-style: bold;
+}
