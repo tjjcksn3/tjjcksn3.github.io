@@ -52,6 +52,12 @@ p {
   font-weight: 800;
 }
 
+#project
+{
+  float: left;
+}
+
+
 .navbar
 {
   color: #ffb3cd;
