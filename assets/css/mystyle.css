@@ -59,34 +59,10 @@ p {
   position: fixed;
 }
 
-  .btn-outline {
-    color: #ffb3cd;
-    background-color: #ffffff;
-    border-color: #ffb3cd;
-    font-weight: bold;
-    letter-spacing: 0.05em;
-  }
 
 
 
 
 
 
-  .btn-outline {
-    color: #4fbfa8;
-    background-color: #ffffff;
-    border-color: #ffb3cd;
-    font-weight: bold;
-    border-radius: 0;
-  }
-  
-  .btn-outline:hover,
-  .btn-outline:active,
-  .btn-outline:focus,
-  .btn-outline.active {
-    background: #ffb3cd;
-    color: #ffffff;
-    border-color: #ffb3cd;
-    
-  }
   
