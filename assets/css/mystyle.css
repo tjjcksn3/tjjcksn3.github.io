@@ -41,6 +41,10 @@ p {
   margin-bottom: 1rem;
 }
 
+img {
+  border-radius: 30px;
+}
+
 p#para2
 {
   text-align: center
