@@ -55,7 +55,7 @@ p {
 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 800;
-  color: #FF9A9A
+  color: #ffb3cd;
   position: fixed;
 }
 
@@ -66,7 +66,12 @@ p {
     font-weight: bold;
     letter-spacing: 0.05em;
   }
-  
+
+
+
+
+
+
   .btn-outline {
     color: #4fbfa8;
     background-color: #ffffff;
