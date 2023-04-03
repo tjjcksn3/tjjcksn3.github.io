@@ -42,8 +42,9 @@ p {
 
 #para2
 {
-  text-align: right;
+  float: right;
   font-weight: 400;
+  padding: 10;
 }
 
 #project
