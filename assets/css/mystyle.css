@@ -15,7 +15,7 @@ h2 {
 h3 {
   color: #FFD7AD;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 800;
+  font-weight: bold;
   text-align: center;
 }
 
@@ -49,10 +49,10 @@ img {
 
 }
 
-p#para2
+#para2
 {
   text-align: center
-  padding: 10;
+  padding: 10px;
 }
 
 #page-top
