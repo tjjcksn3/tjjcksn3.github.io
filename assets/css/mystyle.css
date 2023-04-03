@@ -43,7 +43,6 @@ p {
 #para2
 {
   float: right;
-  font-weight: 400;
   padding: 10;
 }
 
@@ -53,9 +52,11 @@ p {
   font-weight: 800;
 }
 
-#navbar
+.navbar
 {
   color: #ffb3cd;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
 }
 
 
