@@ -42,7 +42,7 @@ p {
 
 #para2
 {
-  float: right;
+  text-align: center
   padding: 10;
 }
 
@@ -52,29 +52,9 @@ p {
   font-weight: 800;
 }
 
-#project
-{
-  float: left;
-}
 
 
-.navbar
-{
-  color: #ffb3cd;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 800;
-}
 
-.btn
-{
-  color: #E68BBE
-
-}
-
-.btn-outline
-{
-  color: #FFD7AD
-}
 
 
   
