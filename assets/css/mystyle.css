@@ -169,6 +169,16 @@
   color: #FFE7D3;
 }
 
+
+.navbar-toggler-icon {
+  background-image: none;
+}
+.navbar-toggler-icon::before {
+  font-family: FontAwesome;
+  color: #ffffff;
+  content: "\f0c9"; 
+}
+
 /* regular css */
 
 
