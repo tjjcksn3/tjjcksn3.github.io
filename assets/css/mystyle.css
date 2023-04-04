@@ -158,9 +158,8 @@
 
 .nav /*applies to what's in the dropdown & links*/
 {
-  color: #ffffff;
+  background-color:#FFC0C0;
   font-weight: bold;
-
 }
 
 .navbar a:hover
