@@ -151,7 +151,7 @@
 
 .navbar /*only applies to where T is*/
 {
-  background: #fe86c0;
+  background-color:#FFC0C0;
   font-weight: bold;
 }
 
@@ -159,7 +159,6 @@
 .nav /*applies to what's in the dropdown & links*/
 {
   color: #ffffff;
-  background-color:#EEA1CD !important;
   font-weight: bold;
 
 }
