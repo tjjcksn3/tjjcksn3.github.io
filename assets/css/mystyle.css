@@ -172,13 +172,13 @@ h1 {
 h2 {
   color: #E68BBE;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 800;
+  font-weight: normal;
 }
 
 h3 {
   color: #FFD7AD;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 800;
+  font-weight: bold;
   text-align: center;
 }
 
