@@ -164,7 +164,7 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.navbar a:hover
+.navbar a:hover,.nav a:hover
 {
   color: #FFE7D3;
 }
