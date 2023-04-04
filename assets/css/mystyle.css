@@ -169,6 +169,10 @@
   color: #FFE7D3;
 }
 
+.navbar, .nav
+{
+  color: #ffffff;
+}
 
 .navbar-toggler-icon {
   background-image: none;
@@ -178,6 +182,8 @@
   color: #ffffff;
   content: "\f0c9"; 
 }
+
+
 
 /* regular css */
 
