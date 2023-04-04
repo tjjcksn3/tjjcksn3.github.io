@@ -148,12 +148,20 @@
   
 }
 
-.navbar
+.navbar, .navbar-expand-lg
 {
-  background:#ffffff;
+  color: #E68BBE;
+  background-color:#ffffff;
   font-weight: bold;
+
 }
 
+
+#navbarNav
+{
+  font-weight: bold;
+  color: #E68BBE;
+}
 
 /* regular css */
 
