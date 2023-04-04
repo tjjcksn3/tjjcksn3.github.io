@@ -179,14 +179,7 @@
   color: #ffffff;
 }
 
-.navbar-toggler-icon {
-  background-image: none;
-}
-.navbar-toggler-icon::before {
-  font-family: FontAwesome;
-  color: #ffffff;
-  content: "\f0c9"; 
-}
+
 
 
 
