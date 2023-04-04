@@ -148,7 +148,14 @@
   
 }
 
-.navbar, .navbar-expand-lg
+
+.navbar /*only applies to where T is*/
+{
+  background: #fe86c0;
+}
+
+
+.nav /*applies to what's in the dropdown & links*/
 {
   color: #E68BBE;
   background-color:#ffffff;
@@ -156,11 +163,15 @@
 
 }
 
-
-#navbarNav
+.navbar a:hover
 {
-  font-weight: bold;
-  color: #E68BBE;
+  color: #ffffff;
+}
+
+.bars
+{
+color: #ffc107;
+font-size: 20px;
 }
 
 /* regular css */
