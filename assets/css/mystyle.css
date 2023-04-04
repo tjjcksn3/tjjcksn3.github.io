@@ -169,7 +169,12 @@
   color: #FFE7D3;
 }
 
-.navbar, .nav
+.navbar-scroll
+{
+  color: #FFD7D3;
+}
+
+.navbar .navbar-brand, .navbar .navbar-nav .nav-link
 {
   color: #ffffff;
 }
