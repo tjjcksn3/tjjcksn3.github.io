@@ -121,12 +121,11 @@
 
 
 
-
 .btn-outline {
   color: #FF9A9A;
   background-color: #ffffff;
   border-color: #FF9A9A;
-  font-weight: bold;
+  font-weight: normal;
   letter-spacing: 0.05em;
 }
 
@@ -134,7 +133,7 @@
   color: #FF9A9A;
   background-color: #ffffff;
   border-color: #FF9A9A;
-  font-weight: bold;
+  font-weight: normal;
   border-radius: 0;
 }
 
@@ -148,6 +147,16 @@
   
 }
 
+.navbar
+{
+  color:white;
+  
+}
+
+
+
+
+]
 body {
   position: relative; 
   font-family: 'Montserrat', sans-serif;
