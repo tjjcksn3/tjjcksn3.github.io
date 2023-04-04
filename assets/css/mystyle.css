@@ -166,22 +166,10 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.navbar a:hover,.nav a:hover
+.navbar a:hover,
 {
   color: #FFE7D3;
 }
-
-.navbar-scroll
-{
-  color: #FFD7D3;
-}
-
-.navbar .navbar-brand, .navbar .navbar-nav .nav-link
-{
-  color: #ffffff;
-}
-
-
 
 
 
