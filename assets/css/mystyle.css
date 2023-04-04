@@ -152,27 +152,24 @@
 .navbar /*only applies to where T is*/
 {
   background: #fe86c0;
+  font-weight: bold;
 }
 
 
 .nav /*applies to what's in the dropdown & links*/
 {
-  color: #E68BBE;
-  background-color:#ffffff;
+  color: #ffffff;
+  background-color:#EEA1CD !important;
   font-weight: bold;
 
 }
 
 .navbar a:hover
 {
-  color: #ffffff;
+  color: #FFE7D3;
 }
 
-.bars
-{
-color: #ffc107;
-font-size: 20px;
-}
+
 
 /* regular css */
 
