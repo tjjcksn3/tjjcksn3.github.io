@@ -151,7 +151,7 @@
 
 .navbar /*only applies to where T is*/
 {
-
+  position: sticky;
   background-color:#FFC0C0;
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
@@ -160,7 +160,6 @@
 
 .nav /*applies to what's in the dropdown & links*/
 {
-  color: #ffffff;
   background-color:#FFC0C0;
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
@@ -169,8 +168,16 @@
 .navbar a:hover
 { 
   color: #FFE7D3; 
+  transition: .3s;
 }
 
+.navbar-nav a{
+  color: #ffffff;
+}
+
+.dropdown-menu a{
+  color: #ffffff;
+}
 
 /* regular css */
 
