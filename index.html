@@ -56,6 +56,13 @@
   </div>
 </nav>
 
+
+<!-- Preloader-->
+<div id="loader"></div>
+<div id="content">
+
+
+
 <!-- Header --> 
 <header class="main-header">
 <div class="container px-4 text-center">
@@ -196,28 +203,12 @@
  </a>
  </footer>
 
+</div>
 
-
-<!-- Preloader-->
-
-<div class="loader"></div>
-
-<body onload="myFunction()" style="margin:0;">
-
-<div id="loader"></div>
-  
-<div style="display:none;" id="myDiv" class="animate-bottom">
-
-
- <script>
-  var myVar;
-  
-  function myFunction() {
-    myVar = setTimeout(showPage, 3000);
+<script>
+  var preloader = document.getElementById('loader');
+  function preLoaderHandler(){
+      preloader.style.display = 'none';
   }
-  
-  function showPage() {
-    document.getElementById("loader").style.display = "none";
-    document.getElementById("myDiv").style.display = "block";
-  }
-  </script>
+</script>
+</body>
