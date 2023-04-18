@@ -237,7 +237,7 @@ img {
 	position: fixed;
 	width: 100%;
 	height: 100vh;
-	background: #21242d url('https://icons8.com/icon/m7Us8lWUkU3E/loading-heart') no-repeat center;
+	background: #21242d url('icons8-loading-heart.gif') no-repeat center;
 	z-index: 999;
 }
 
