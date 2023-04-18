@@ -31,34 +31,6 @@
 
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
 
-<!-- Preloader-->
-
-<div class="loader"></div>
-
-<body onload="myFunction()" style="margin:0;">
-
-<div id="loader"></div>
-  
-<div style="display:none;" id="myDiv" class="animate-bottom">
-
-  <script>
-    var myVar;
-    
-    function myFunction() {
-      myVar = setTimeout(showPage, 3000);
-    }
-    
-    function showPage() {
-      document.getElementById("loader").style.display = "none";
-      document.getElementById("myDiv").style.display = "block";
-    }
-    </script>
-    
-
-
-
-
-
 <!-- Navigation-->
 <body id="page-top">
 <nav class="navbar navbar-dark navbar-expand-lg sticky-top">
@@ -223,3 +195,29 @@
  </i>
  </a>
  </footer>
+
+
+
+<!-- Preloader-->
+
+<div class="loader"></div>
+
+<body onload="myFunction()" style="margin:0;">
+
+<div id="loader"></div>
+  
+<div style="display:none;" id="myDiv" class="animate-bottom">
+
+
+ <script>
+  var myVar;
+  
+  function myFunction() {
+    myVar = setTimeout(showPage, 3000);
+  }
+  
+  function showPage() {
+    document.getElementById("loader").style.display = "none";
+    document.getElementById("myDiv").style.display = "block";
+  }
+  </script>
