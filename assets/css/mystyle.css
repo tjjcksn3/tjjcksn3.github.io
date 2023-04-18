@@ -232,6 +232,12 @@ img {
   border-radius: 8px;
 }
 
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  background: #fff3cd url('https://tjjcksn3.github.io/assets/icons8-loading-heart.gif') no-repeat center;
+}
 
 
 .animate-bottom {
@@ -253,4 +259,8 @@ img {
 }
 
 
+#myDiv {
+  display: none;
+  text-align: center;
+}
   
