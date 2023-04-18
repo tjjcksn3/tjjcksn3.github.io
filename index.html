@@ -10,15 +10,12 @@
  
 
 <!-- Preloader-->
-<div class="loader"> <img src="https://tjjcksn3.github.io/assets/icons8-loading-heart.gif"></div>
+<div id="overlay"><img src="https://tjjcksn3.github.io/assets/icons8-loading-heart.gif"></div>
 
 <script>
-  window.onload = function() 
-  {
-      //display loader on page load 
-      $('.loader').fadeOut();
-  }
-
+  $(window).load(function() {
+   $('#overlay').addClass('hide');
+  });
 </script>
 
 
