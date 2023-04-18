@@ -11,7 +11,16 @@
 
 <!-- Preloader-->
 
+<div class= "loader"></div>
 
+
+  <script>
+    var load= document .getElementsByClassName("loader");
+    function loadfun()
+    {
+      load.style.display = 'none';
+    }
+    </script>
 
 
 
@@ -212,8 +221,9 @@
  </footer>
 
 
+ <body onload="loadfun()">
 
-
+ </body>
 
 
 
