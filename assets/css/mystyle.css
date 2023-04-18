@@ -237,7 +237,7 @@ img {
 	position: fixed;
 	width: 100%;
 	height: 100vh;
-	background: #21242d url('icons8-loading-heart.gif') no-repeat center;
+	background: #000 url('icons8-loading-heart.gif') no-repeat center;
 	z-index: 999;
 }
 
