@@ -232,10 +232,3 @@ img {
   border-radius: 8px;
 }
 
-#loader {
-  position: fixed;
-  width: 100%;
-  height: 100vh;
-  background: #fff url ('https://tjjcksn3.github.io/assets/icons8-loading-heart.gif') no repeat center;
-  z-index: 99999;
-}
